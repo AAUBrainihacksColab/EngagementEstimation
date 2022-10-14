@@ -1,0 +1,3 @@
+gesture = ALProxy("ALAnimatedSpeech", "169.254.241.214", 9559)
+gesture.post.say("^mode(disabled) Hello! ^start(animations/Stand/Gestures/Hey_1) Nice to meet you!")
+gesture.post.say("^mode(disabled) Fly up in the sky! ^start(fly/behavior_1) and fly again and again and again and again and again and again and why am I not flying this is sad")
